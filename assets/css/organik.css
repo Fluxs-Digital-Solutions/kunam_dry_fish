@@ -3385,7 +3385,7 @@ h6 {
   left: 0;
   transform: translateY(-50%);
   font-size: 14px;
-  color: var(--thm-base);
+  color: var(--thm-text-dark);
 }
 
 .footer-widget__contact li a {
@@ -3397,7 +3397,7 @@ h6 {
 }
 
 .footer-widget__contact li:hover a {
-  color: var(--thm-base);
+  color: var(--thm-primary);
 }
 
 .footer-widget__links {
@@ -3413,7 +3413,7 @@ h6 {
 }
 
 .footer-widget__links li:hover a {
-  color: var(--thm-base);
+  color: var(--thm-primary);
 }
 
 .footer-widget .mc-form {
